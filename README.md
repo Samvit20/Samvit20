@@ -33,7 +33,9 @@
 
  ### GitHub Stats
   <img align="left" alt="Samvit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samvit20&show_icons=true&hide_border=true&theme=radical" />
+  </br>
   <img align="left" alt="Samvit's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samvit20&layout=compact&theme=radical&hide_border=true" />
+  </br>
   <img align="left" alt="Samvit's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Samvit20&theme=radical&hide_border=true" />
 
 
