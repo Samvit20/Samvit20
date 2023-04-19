@@ -1,10 +1,11 @@
 ## Hi there, I'm Samvit 👋
 <img align="left" width="100px" height="20px" src="https://komarev.com/ghpvc/?username=Samvit20" /><br />
 
-## I'm a Data Scientist and Designer + a Student.
+## I'm a Data Scientist and Software Engineer + a Student.
 - I'm currently working on Data Analytics and Design
+- I'm learning backend with Java-Spring Boot and Go
 - I’m learning Machine Learning
-- I’m looking to collaborate with other Data Scientists and Designers
+- I’m looking to collaborate with other Data Scientists and Software Engineers
 - Fun fact: I love to travel and take pictures
 
 ### Connect with me:
